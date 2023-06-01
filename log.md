@@ -18,3 +18,12 @@
 - Menyelesaikan salah satu kriteria submission
 
 **Thoughts** : sedikit bingung dengan penarapan async/await di class javascript dan consume api dengan lit element, solusi nya belum ketemu.
+
+## **Day 3 : May 31, Wednesday**
+
+**Today's Progress :**
+
+- Masih mengerjakan submssion "Belajar Menjadi Front-End Web Developer Expert"
+- Menyelesaikan consume api dari dicoding untuk website restaurant
+
+**Thoughts** : Ngga ada problem untuk hari ini, karena tidak terlalu lama ngoding
